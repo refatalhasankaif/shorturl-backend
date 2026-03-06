@@ -1,0 +1,7 @@
+.env
+.env.local
+!.env.example
+dist
+node_modules
+prisma/migrations
+/src/generated/prisma
