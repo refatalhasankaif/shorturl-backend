@@ -19,7 +19,8 @@
         "dotenv": "^17.3.1",
         "express": "^5.2.1",
         "firebase-admin": "^13.7.0",
-        "http-status": "^2.1.0"
+        "http-status": "^2.1.0",
+        "nanoid": "^5.1.6"
     },
     "devDependencies": {
         "@types/cors": "^2.8.19",

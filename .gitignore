@@ -5,3 +5,4 @@ dist
 node_modules
 prisma/migrations
 /src/generated/prisma
+firebase-service-account.json
